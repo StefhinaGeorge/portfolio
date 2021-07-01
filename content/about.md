@@ -7,9 +7,14 @@ Hi There👋 I'm Stefhina.
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
+
 ## About Me
 
-I'm a student pursuing my B Tech in Computer Science & Engineering.
+I'm a student currently pursuing my B Tech in Computer Science & Engineering.
+My primary goal and inspiration for my studies is Data Science and Machine Learning.
+I'm also very passionate about Web Development and IoT.
+I'm self-motivated, and constantly experimenting with new technologies.
+I strive to better myself as a Data Scientist.
 
 ## Experience
 
@@ -18,6 +23,7 @@ I'm a student pursuing my B Tech in Computer Science & Engineering.
 and helped building production-ready web applications.
 
 ---
+
 ## Education
 
 Year      | Degree/STD | CGPA/% | Institution
